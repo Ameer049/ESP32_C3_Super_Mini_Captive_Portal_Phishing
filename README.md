@@ -56,3 +56,18 @@ All submitted form fields are written to:
 * Pin 5  -> CLK
 * Pin 6  -> MOSI
 * Pin 7  -> CS
+
+🛡️ Legal & Ethical Notice
+
+This project is intended ONLY for:
+
+Penetration testing with explicit written permission
+
+Cybersecurity education
+
+Awareness trainings
+
+Demonstrating phishing risks in a controlled environment
+
+Never deploy this on networks, people, or environments where you do not have authorization.
+Unauthorized credential harvesting is illegal and punishable by law.
