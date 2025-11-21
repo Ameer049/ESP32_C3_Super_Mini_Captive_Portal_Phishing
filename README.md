@@ -49,10 +49,10 @@ All submitted form fields are written to:
 * SPI.h
 
 2. Configure Correct SD Pins
-ESP32 to SD card module
-Ground -> Ground
-3.3 V  -> 3.3 V
-Pin 4  -> MISO
-Pin 5  -> CLK
-Pin 6  -> MOSI
-Pin 7  -> CS
+* ESP32 to SD card module
+* Ground -> Ground
+* 3.3 V  -> 3.3 V
+* Pin 4  -> MISO
+* Pin 5  -> CLK
+* Pin 6  -> MOSI
+* Pin 7  -> CS
